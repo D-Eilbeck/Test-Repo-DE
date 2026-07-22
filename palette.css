@@ -1,0 +1,10 @@
+/* Pocock Sanders brand palette — shared CSS custom properties.
+   --purple (#582C83) is Pantone 268 C. See README.md for full reference. */
+:root{
+  --purple:#582C83; --purple-dark:#3D1A6E; --purple-mid:#7B4BB8;
+  --purple-pale:#D8CEF0; --purple-faint:#F2EEF9;
+  --dark:#3C3C3C; --muted:#6B6B6B; --border:#DDD4EF; --bg:#FAF8FD;
+  --grey-row:#F2F2F2;
+  --green:#2E7D52; --red:#991B1B; --amber:#B45309;
+  --q4bg:#FDECEC; --q3bg:#FFF6E8;
+}
